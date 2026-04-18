@@ -1,0 +1,3 @@
+npx knip
+npx tsc --noEmit
+npx lint-staged

@@ -1,0 +1,18 @@
+{
+  "arrowParens": "avoid",
+  "endOfLine": "auto",
+  "plugins": [
+    "prettier-plugin-tailwindcss"
+  ],
+  "printWidth": 80,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "tailwindFunctions": [
+    "cn",
+    "cva"
+  ],
+  "tailwindStylesheet": "src/app/globals.css",
+  "trailingComma": "all",
+  "useTabs": false
+}

@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "name": "James Smith",
+    "description": "A proud part of London since 1830.",
+    "helmet": {
+      "template": "%s - James Smith",
+      "default": "James Smith",
+      "home": "James Smith"
+    }
+  },
+  "pages": {
+    "notFound": {
+      "title": "Not Found"
+    }
+  }
+}
